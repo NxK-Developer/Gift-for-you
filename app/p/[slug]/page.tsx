@@ -1,0 +1,1 @@
+// Hosted public page renderer
